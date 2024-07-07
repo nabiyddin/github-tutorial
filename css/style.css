@@ -1,0 +1,12 @@
+.active {
+  color: green;
+}
+
+.inActive {
+  color: red;
+}
+
+.line {
+  color: green;
+  font-size: 70px;
+}
